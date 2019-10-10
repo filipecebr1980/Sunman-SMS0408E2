@@ -1,0 +1,17 @@
+Sms0408	KEYWORD1
+adjust	KEYWORD2
+backLight	KEYWORD2
+checkNumber	KEYWORD2
+clearDigit	KEYWORD2
+clearLCD	KEYWORD2
+clock	KEYWORD2
+codig	KEYWORD2
+displayError	KEYWORD2
+displayFloat	KEYWORD2
+displayFloatAuto	KEYWORD2
+displayInt	KEYWORD2
+fillLCD	KEYWORD2
+showColumn	KEYWORD2
+split	KEYWORD2
+showError	KEYWORD2
+showTime	KEYWORD2
