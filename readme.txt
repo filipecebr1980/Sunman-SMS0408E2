@@ -1,6 +1,6 @@
 +=======================================================================+
 +	SUNMAN  SMS0408 7 SEGMENT 4 DIGIT LCD BASIC FUNCTIONS						+
-+ 	ARDUINO LIBRARY - V1.0																	+
++       ARDUINO LIBRARY - V1.0																	+
 +	BY FILIPE CESAR BRANDAO - budegarower@gmail.com								+
 +=======================================================================+
 
@@ -53,7 +53,7 @@ Example:
 
 a= myLCD.checkNumber(99);
 
-in this case a=2 because "99" is composed by 2 digits
+In this case a=2 because "99" is composed by 2 digits
 
 =========================================================================
 clearDigit(int);
