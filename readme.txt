@@ -1,7 +1,7 @@
 +=======================================================================+
-+	SUNMAN  SMS0408 7 SEGMENT 4 DIGIT LCD BASIC FUNCTIONS						+
-+       ARDUINO LIBRARY - V1.0																	+
-+	BY FILIPE CESAR BRANDAO - budegarower@gmail.com								+
++	SUNMAN  SMS0408 7 SEGMENT 4 DIGIT LCD BASIC FUNCTIONS		+
++       ARDUINO LIBRARY - V1.0						+
++	BY FILIPE CESAR BRANDAO - budegarower@gmail.com			+
 +=======================================================================+
 
 This library contains basic methods to use the SMS0408E2 7 segment, 4 digits LCD. It was 
@@ -89,8 +89,8 @@ Returns: void
 This method is used to codify an integer in to a specific figure to be sent to the LCD. The 
 implemented symbols can be seen on the table below (mapping):
 
-INDEX: 	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22
-FIG.   		0 	1 	2 	3 	4 	5	6 	7 	8 	9	 A  	b 	 C  	d  	E  	F 	 h 	 r  	° 	 - 	 . 	L	P
+INDEX:	0   1   2   3   4   5   6   7   8   9   10   11   12  13  14   15   16   17   18   19   20   21   22
+FIG.	0   1   2   3   4   5   6   7   8   9    A    b    C   d   E    F    h    r    °    -    .    L    P
 
 EXAMPLES:
 
